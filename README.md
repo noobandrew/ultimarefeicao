@@ -1,17 +1,19 @@
-# ultimarefeicao
-Apesar do nome estranho, é só um botão que registra o horário da última vez que comi. 
+# ultimarefeicao/lastmeal
+Apesar do nome estranho, é só um botão que registra o horário da última vez que comi. / Despite the strange name, it's just a button that records the time of the last time I ate.
 
 
-# Propósito do script:
+# Propósito do script/Purpose of the script:
  Ando comendo muito, muita porcaria, então quero espaçar minhas refeições.
  Para isso, criei esse script,
  que é basicamente um "botão" de registro da última refeição feita.
  No caso, o registro vai para um arquivo de Excel. 
+ ________________________________________________________________________________________________________________________________________________________________
+ 
+ I've been eating a lot, a lot of junk food, so I want to space out my meals. For that, I created this script, which is basically a 'button' for registering the last meal made. In this case, the record goes to an Excel file.
 
-_além do código em python, upei uma build que fiz com PyInstaller_
 
 # UPDATE 05/02/2023 9:17 AM
-Build para rodar em PCs sem Python + Atalho e ícone sugerido
+Build para rodar em PCs sem Python(feita com PyInstaller) + atalho e ícone sugerido/ Build to run on PCs without Python (made with PyInstaller) + shortcut and suggested icon
 
 
 
