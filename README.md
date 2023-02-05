@@ -10,4 +10,8 @@ Apesar do nome estranho, é só um botão que registra o horário da última vez
 
 _além do código em python, upei uma build que fiz com PyInstaller_
 
+# UPDATE 05/02/2023 9:17 AM
+Build para rodar em PCs sem Python + Atalho e ícone sugerido
+
+
 
