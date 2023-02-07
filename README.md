@@ -12,8 +12,3 @@ Apesar do nome estranho, é só um botão que registra o horário da última vez
  I've been eating a lot, a lot of junk food, so I want to space out my meals. For that, I created this script, which is basically a 'button' for registering the last meal made. In this case, the record goes to an Excel file.
 
 
-# UPDATE 05/02/2023 9:17 AM
-Build para rodar em PCs sem Python(feita com PyInstaller) + atalho e ícone sugerido/ Build to run on PCs without Python (made with PyInstaller) + shortcut and suggested icon
-
-
-
